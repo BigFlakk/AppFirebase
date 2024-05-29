@@ -16,12 +16,12 @@ import { initializeApp } from "firebase/app";
 import { getFirestore, collection, getDoc, setDoc, deleteDoc,doc } from 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCD0P2QMMWOBqhDMMd5kp72jPMsjxvIJqs",
-  authDomain: "proyectoproducto-db88b.firebaseapp.com",
-  projectId: "proyectoproducto-db88b",
-  storageBucket: "proyectoproducto-db88b.appspot.com",
-  messagingSenderId: "554325404068",
-  appId: "1:554325404068:web:b107fe26a940b242727931"
+  apiKey: "AIzaSyAJUDu5uZdgLRMfVteCkP1oi0Y309JA0P4",
+  authDomain: "proyectofirebasefinal-cb381.firebaseapp.com",
+  projectId: "proyectofirebasefinal-cb381",
+  storageBucket: "proyectofirebasefinal-cb381.appspot.com",
+  messagingSenderId: "365068874000",
+  appId: "1:365068874000:web:8753eb0df1e9e66dc23595"
 };
 
 
